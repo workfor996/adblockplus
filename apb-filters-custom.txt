@@ -1,4 +1,15 @@
-!这是我的自定义规则(点击ABP图标>齿轮>高级>我的过滤列表下文本框)
+[Adblock Plus 3.12]
+! Checksum: 2a4+Npzc0zgF2kkmFduOiA
+! Version: 202203311747
+! Title: costom filters
+! Last modified: 31 Mar 2022 17:47 UTC
+! Expires: 1 days (update frequency)
+! Homepage: https://github.com/workfor996/adblockplus
+!
+! Please report any unblocked tracking or problems
+!
+!-----------------General tracking systems-----------------!
+
 pornhub.com##.js-relatedRecommended,#under-player-playlists,#gfbafbgndc
 smzdm.com###elevator,.left-share,.J_common_shares,.qrcode,.guess-like,.shaiwu-module,.J_shaiwu,.goods-module,.J_goods,.some-recommend
 ecosia.org##.card--as-div,.related-queries.mainline__result
