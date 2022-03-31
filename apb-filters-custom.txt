@@ -1,0 +1,15 @@
+!这是我的自定义规则(点击ABP图标>齿轮>高级>我的过滤列表下文本框)
+pornhub.com##.js-relatedRecommended,#under-player-playlists,#gfbafbgndc
+smzdm.com###elevator,.left-share,.J_common_shares,.qrcode,.guess-like,.shaiwu-module,.J_shaiwu,.goods-module,.J_goods,.some-recommend
+ecosia.org##.card--as-div,.related-queries.mainline__result
+jd.com##.promotional-top,.fs_act_lk
+item.jd.com###similar,.jdm-toolbar-footer
+search.jd.com,list.jd.com##.m-tipbox,.J_diviner,.bottom-search,.footmark,.jdm-toolbar-footer
+baidu.com###s-hotsearch-wrapper,#s_side_wrapper,#content_right,div[tpl="recommend_list"],.c-group-wrapper
+czmm.xyz,aliyundrive.asia##.pausePane,.vjs-big-play-button
+czspp.com##.ad,#minigonggaop
+douban.com###recommendations
+v.qq.com##.txp_zt_video
+static.zhihu.com/heifetz/main.signflow.*.js
+static.zhihu.com/heifetz/*.signflow.*.css
+||*.com/ddimg/jfs/t1/*
